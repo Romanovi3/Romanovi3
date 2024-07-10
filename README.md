@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Russia, Kemerovo
 * ✉️  You can contact me at [bauerxvii@gmail.com](mailto:bauerxvii@gmail.com)
-* 🧠  I'm learning Python, ML,
+* 🧠  I'm learning web development,
 * ⚡  This is just the beginning of my journey
 
 <a href="https://www.github.com/Romanovi3" target="_blank" rel="noreferrer"><img
